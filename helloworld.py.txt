@@ -6,3 +6,5 @@ if sick=="yes":
 else:
 	print("Go to work")
 	print("You're not sick, its ok")
+	print("You're not sick, its ok")
+	print("You're not sick, its ok")
