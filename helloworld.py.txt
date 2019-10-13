@@ -5,4 +5,4 @@ if sick=="yes":
 	print("Call the doctor")
 else:
 	print("Go to work")
-	print("You're not sick, its ok")
+	print("You're not sick")
