@@ -1,4 +1,8 @@
-print ("Hello World")
-print ("Hello India")
-print ("Hello TamilNadu")
-print ("Hello TamilNadu1")
+sick = input("Are you sick?)
+if sick=="yes":
+	print("Take medicines")
+	print("Go to hospital")
+	print("Call the doctor")
+else:
+	print("Go to work")
+	print("You're not sick, its ok")
