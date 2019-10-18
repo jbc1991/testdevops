@@ -8,3 +8,26 @@ else:
 	print("You're not sick")
 
 This is master branch
+
+
+sick = input("Are you sick?)
+if sick=="yes":
+	print("Take medicines")
+	print("Go to hospital")
+	print("Call the doctor")
+else:
+	print("Go to work")
+	print("You're not sick")
+
+This is master branch
+
+sick = input("Are you sick?)
+if sick=="yes":
+	print("Take medicines")
+	print("Go to hospital")
+	print("Call the doctor")
+else:
+	print("Go to work")
+	print("You're not sick")
+
+This is master branch
